@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-# file: model.py
-# date: 2023-09-21
-
 
 import pdb
 import torch
