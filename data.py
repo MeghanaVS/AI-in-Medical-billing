@@ -1,6 +1,4 @@
-# -*- coding: utf-8 -*-
-# file: data.py
-# date: 2023-09-23
+
 
 
 import pdb
