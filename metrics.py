@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-# file: metrics.py
-# date: 2023-10-01
-
 
 import pdb
 import torch
